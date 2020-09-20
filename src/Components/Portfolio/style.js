@@ -70,7 +70,7 @@ export const Overly = styled.div`
     left: 0;
     bottom: 0;
     right: 0;
-    background: rgba(235,84,36 , 0.5);
+    background: #0a192fba;
     font-size: 15px;
     opacity: 0;
     &:hover{
@@ -83,7 +83,7 @@ export const OverlySpan = styled.span`
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: #fff;
+    background: #0a192f;
     display: block;
     padding: 10px 20px;
     cursor: pointer;
