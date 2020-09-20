@@ -1,0 +1,117 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Web Design",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id": 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Web Development",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id": 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Web Hosting",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": 1,
+            "image": "../images/Portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "../images/Portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id": 3,
+            "image": "../images/Portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id": 4,
+            "image": "../images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id": 5,
+            "image": "../images/Portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id": 6,
+            "image": "../images/Portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id": 7,
+            "image": "../images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id": 8,
+            "image": "../images/Portfolio/portfolio-img8.jpg"
+        }
+    ],
+    "social": [
+        {
+            "id": 1,
+            "icon": "icon fa fa-facebook fa-lg",
+            "title": "Follow Me on",
+            "body": "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon": "icon fa fa-twitter fa-lg",
+            "title": "Tweet Me on",
+            "body": "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon": "icon fa fa-github fa-lg",
+            "title": "Pin Me on",
+            "body": "Social Github "
+        }
+    ],
+    "profile": [
+        {
+            "id": 1,
+            "name": "Kejgon James",
+            "Address": "Nairobi",
+            "email": "kj@gmail.com",
+            "website": "www.kejjames.com",
+            "skills": [
+                {
+                    "id": 1,
+                    "name": "HTML",
+                    "percentage": "100%"
+                },
+                {
+                    "id": 2,
+                    "name": "CSS",
+                    "percentage": "96%"
+                },
+                {
+                    "id": 3,
+                    "name": "JAVASCRIPT",
+                    "percentage": "80%"
+                },
+                {
+                    "id": 4,
+                    "name": "PHP",
+                    "percentage": "76%"
+                },
+                {
+                    "id": 5,
+                    "name": "MYSQL",
+                    "percentage": "80%"
+                },
+                {
+                    "id": 6,
+                    "name": "REACT",
+                    "percentage": "60%"
+                }
+            ]
+        }
+    ]
+}
