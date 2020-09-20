@@ -8,7 +8,7 @@ const About = () => {
             <div className="container">
                 <AboutInfo>
                     <AboutTitle><Span>This is Me</Span></AboutTitle>
-                    <InfoDir>Creative Director</InfoDir>
+                    <InfoDir>Developer</InfoDir>
                     <InfoDesc>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim est <InfoAnchor href="#">explicabo</InfoAnchor> maxime quibusdam quaerat nihil aliquid aperiam deleniti, repellendus dolorum. Possimus nisi cupiditate ad veritatis?
                 </InfoDesc>
