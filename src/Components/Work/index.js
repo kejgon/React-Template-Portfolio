@@ -39,7 +39,7 @@ class Work extends Component {
 
 
         return (
-            <WorkSection>
+            <WorkSection id="work">
                 <div className="container">
                     <WorkTitle><Span>My</Span> Work</WorkTitle>
                     {workList}

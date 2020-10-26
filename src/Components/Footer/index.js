@@ -4,7 +4,7 @@ import { FooterSection, FooterDesc } from './style.js';
 const Footer = () => {
     return (
         <FooterSection>
-            <FooterDesc> copyright &copy; 2020 by KJ </FooterDesc>
+            <FooterDesc> copyright &copy; <a href="https://www.kejjames.com">Kejgon James</a></FooterDesc>
         </FooterSection>
     )
 }

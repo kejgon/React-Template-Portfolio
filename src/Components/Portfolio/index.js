@@ -41,7 +41,7 @@ const Portfolio = () => {
 
 
     return (
-        <PortfolioSection>
+        <PortfolioSection id="portfolio">
             <PortfolioTitle><Span>My</Span> Portfolio</PortfolioTitle>
             {/* <PortfolioList>
                 <PortfolioItem active>All</PortfolioItem>

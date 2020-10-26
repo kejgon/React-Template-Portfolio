@@ -20,10 +20,10 @@ const Navbar = () => {
 
                 <UlList>
                     <ListsItems><Link className="anchor" to="/">Home</Link></ListsItems>
-                    <ListsItems><Anchor href="">Work</Anchor></ListsItems>
-                    <ListsItems><Anchor href="">Portfolio</Anchor></ListsItems>
+                    <ListsItems><Anchor href="#work">Work</Anchor></ListsItems>
+                    <ListsItems><Anchor href="#portfolio">Portfolio</Anchor></ListsItems>
                     <ListsItems><Anchor href="">Resume</Anchor></ListsItems>
-                    <ListsItems><Anchor href="">About</Anchor></ListsItems>
+                    <ListsItems><Anchor href="#about">About</Anchor></ListsItems>
                     <ListsItems><Link to="/contact">Contact</Link></ListsItems>
                 </UlList>
 

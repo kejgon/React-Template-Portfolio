@@ -41,6 +41,10 @@ const Profile = () => {
                     <ProfileItemSpan>Address </ProfileItemSpan>
                     {prof.Address}
                 </ProfileItem>
+                <ProfileItem>
+                    <ProfileItemSpan>Website </ProfileItemSpan>
+                    {prof.website}
+                </ProfileItem>
             </ProfileList>
         )
     })

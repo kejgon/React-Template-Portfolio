@@ -34,7 +34,7 @@ class SocailMedia extends React.Component {
         })
 
         return (
-            <SocialMedia>
+            <SocialMedia id="socialMedia">
 
                 {socialList}
 
